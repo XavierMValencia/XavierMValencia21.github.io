@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Xavier Valencia's Homepage</title>
+    <style> body {
+                        background-color: Blanched Almond;
+                    }
+    </style>
+  </head>
+  <body>
+    <h1><b>Programmer's Homepage</b></h1>
+    <img src="https://pbs.twimg.com/profile_images/765275423349407744/gOyPN-EN_400x400.jpg" alt="Profile Pic"width="175px" height="175px"/>
+    <h3><b>About the programmer</b></h3>
+    <ul>
+      <li>Name:
+        <ul>
+          <li>Xavier Valencia</li>
+        </ul></li>
+      <li>Hobbies:
+        <ul>
+          <li>Playing with dogs</li>
+          <li>Going on social media</li>
+          <li>Talking to friends</li>
+          <li>Coding</li>
+          <li>Going to school</li>
+        </ul></li>
+      <li>Why program?:
+        <ul>
+          <li>Learn how to create websites</li>
+          <li>Secure a job in the cyber industry</li>
+          <li>Be apart of CyberPatriot</li>
+        </ul></li>
+      <li>
+	</ul>
+    
+  </body>
+</html>

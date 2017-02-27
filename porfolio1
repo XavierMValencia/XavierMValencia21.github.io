@@ -1,0 +1,19 @@
+<!doctype html>
+	<html lang="en">
+	  <head>
+	    <meta charset="utf-8">
+	    <title>Portfolio</title>
+	  </head>
+	  <body>
+		
+		<h1>This is my Portfolio Page!</h1>
+		<a href="file:///C:/Users/599004/Documents/Notepad++/index.html">Home</a>
+		<a href="file:///C:/Users/599004/Documents/Notepad++/portfolio.html">Portfolio</a>
+		<a href="file:///C:/Users/599004/Documents/Notepad++/ProgrammerProfile.html">Programmer Profile</a>
+		<a href="file:///C:/Users/599004/Documents/Notepad++/FavoriteBooks.html">Favorite Books</a>
+    <br>
+    <a target="_blank" href="https://scratch.mit.edu">
+      <img src="images/scratchlogo.png" height="100">
+    </a>
+	  </body>
+	</html>
